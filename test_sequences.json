@@ -1,0 +1,86 @@
+{
+    "1": {
+        "sequence": "CGCGAAUUAGCGCGCGAAUUAGCG",
+        "dot-bracket": "(((((((((((())))))))))))"
+    },
+    "2" : {
+        "sequence": "GGCGUAAGGAUUACCUAUGCC",
+        "dot-bracket": "(((((.(((....))))))))"
+    },
+    "3" : {
+        "sequence": "GGCGUCACACCUUCGGGUGAAGUCGCC",
+        "dot-bracket": "((((((((((((..))))).)))))))"
+    },
+    "4" : {
+        "sequence": "GGCCGAUGGUAGUGUGGGGUCUCCCCAUGCGAGAGUAGGCC",
+        "dot-bracket": "(((((((((((((((((((...)))))))))))))))))))"
+    },
+    "5" : {
+        "sequence": "GGGUGACUCCAGAGGUCGAGAGACCGGAGAUAUCACCC",
+        "dot-bracket": "((((((((((...((((....))))))))...))))))"
+    },
+    "6" : {
+        "sequence": "GGUGUGAACACC",
+        "dot-bracket": "((((....))))"
+    },
+    "7" : {
+        "sequence": "GACAGGGGAAACUUUGUC",
+        "dot-bracket": "((((((((..))))))))"
+    },
+    "8" : {
+        "sequence": "GGUAAUAAGCUCGAGUACC",
+        "dot-bracket": "(((.....(((()))))))"
+    },
+    "9" : {
+        "sequence": "GGCCAGAUUGAGCCUGGGAGCUCUCUGGCC",
+        "dot-bracket": "(((((((..((((......)))))))))))"
+    },
+    "10": {
+        "sequence": "CAAAAGUCUGGGCUAAGCCCACUGAUGAGCCGCUGAAAUGCGGCGAAACUUUUG",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "11" : {
+        "sequence": "GAAAGGUCUGUGCUUAGCACACUGACGAGUUCCUGAAAUGGAACGAAACCUUUU",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "12" : {
+        "sequence": "GAUAAGUCUGUGCUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "13" : {
+        "sequence": "CAUAAGUCUAGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUAUG",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "14" : {
+        "sequence": "GAUAAGUCUGUGCUUAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUUAUC",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "15" : {
+        "sequence": "CAUAAGUCUGGGCUUAGCCCACUGAUGAGGCGUUGAGAUACGGCGAAACUUAUG",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "16" : {
+        "sequence": "CAUAAGUCUGGGCUUAGCCCACUGAUGAGCCGUUGAGAUACGGCGGAACUUAUG",
+        "dot-bracket": ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "17" : {
+        "sequence" : "CAUAAGUCUGGGCUAAGCCCACUGAUGAGCCGUUGAGAUACGGCGAAACUUUUG",
+        "dot-bracket" : ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "18" : {
+        "sequence" : "UAAGAGUCUGUGCUAAGCACACUGAUGAAUCUCUGAAAUGAGACGAAACUCUUG",
+        "dot-bracket" : ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "19" : {
+        "sequence" : "UAAGAGUCUGUGGUAAGCACACUGAUGAGUCUCUGAAAUGAGACGAAACUCUUG",
+        "dot-bracket" : ".((((((.(((((...))))).......((((........))))...))))))."
+    },
+    "20" : {
+        "sequence" : "GGACGGAGGCGCGCCCGAGAUGAGUAGGCUGUCCCAUCAGGGGAGGAAUCGGGGACGGCUGAAAGGCGAGGGCGCCGAAGCGAGCAGAGUUCCUCCCGCUCUGCUUGGCUGGGGGUGAGGGGAAUACCCUUACCACUGUCGCGAAAGCGGAGAGCCGUCCA",
+        "dot-bracket" : "((((((....((((((..(.......((((((((..................))))))))......)..))))))...((((((((((((.......))))))))).)))((.((((((((.....)))))))).)).((((....))))....))))))."
+    },
+    "21" : {
+        "sequence" : "AAUAGGUUUGGUCCUAGCCUUUCUAUUAGCUCUUAGUAAGAUUACACAUGCAAGCAUCCCCGUUCCAGUGAGUUCACCCUCUAAAUCACCACGAUCAAAAGGAACAAGCAUCAAGCACGCAGCAAUGCAGCUCAAAACGCUUAGCCUAGCCACACCCCCACGGGAAACAGCAGUGAUUAACCUUUAGCAAUAAACGAAAGUUUAACUAAGCUAUACUAACCCCAGGGUUGGUCAAUUUCGUGCCAGCCACCGCGGUCACACGAUUAACCCAAGUCAAUAGAAGCCGGCGUAAAGAGUGUUUUAGAUCACCCCCUCCCCAAUAAAGCUAAAACUCACCUGAGUUGUAAAAAACUCCAGUUGACACAAAAUAGACUACGAAAGUGGCUUUAACAUAUCUGAACACACAAUAGCUAAGACCCAAACUGGGAUUAGAUACCCCACUAUGCUUAGCCCUAAACCUCAACAGUUAAAUCAACAAAACUGCUCGCCAGAACACUACGAGCCACAGCUUAAAACUCAAAGGACCUGGCGGUGCUUCAUAUCCCUCUAGAGGAGCCUGUUCUGUAAUCGAUAAACCCCGAUCAACCUCACCACCUCUUGCUCAGCCUAUAUACCGCCAUCUUCAGCAAACCCUGAUGAAGGCUACAAAGUAAGCGCAAGUACCCACGUAAAGACGUUAGGUCAAGGUGUAGCCCAUGAGGUGGCAAGAAAUGGGCUACAUUUUCUACCCCAGAAAACUACGAUAGCCCUUAUGAAACUUAAGGGUCGAAGGUGGAUUUAGCAGUAAACUAAGAGUAGAGUGCUUAGUUGAACAGGGCCCUGAAGCGCGUACACACCGCCCGUCACCCUCCUCAAGUAUACUUCAAAGGACAUUUAACUAAAACCCCUACGCAUUUAUAUAGAGGAGACAAGUCGUAACAUGGUAAGUGUACUGGAAAGUGCACUUGGACGAAC",
+        "dot-bracket" : ".....................((((((.(((.((((((((....(((.(((..........................(((....(((.....)))....)))....(((....(((..(((....))).)))......)))...............((....)).....)))))).........(((...(((((....))))).)))..)).)))))).....((((((((..............................)))))))).))).))))))....(((.......((((...(((...............((((((......(((.((..(((......)))...)).))).............((....)).)))))).....)))....))))....((((((........((((.........)))).....))))))...................................)))..........((((....)))).................(((.(((((((...((.........((((((((((...((((........))))........(((((((.......((.((((..(((((.............(((.....)))..................(((....))).........)))...))))))))....)))))))..)).)))))))).....((((.....))))..........(((((((.......)))))))....................(((((((.........)))))))......))...)))))))))).................((((((................................................))))))................((((((((((....))))))))))......."
+    }
+}

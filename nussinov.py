@@ -9,8 +9,11 @@ def nussinov(sequence):
         for i in range(n - k):
             j = i + k
             
-            dp[i][j] = max(dp[i + 1][j], dp[i][j-1])
+            dp[i][j] = dp[i + 1][j]
             bt[i][j] = (i + 1, j)
+            if dp[i][j-1] > dp[i][j]:
+                dp[i][j] = dp[i][j-1]
+                bt[i][j] = (i, j-1)
 
             if pairs[sequence[i]] == sequence[j]:
                 dp[i][j] = dp[i + 1][j - 1] + 1
