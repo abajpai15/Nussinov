@@ -6,10 +6,14 @@ Implementation of Nussinov's Algorithm: a nucleic acid structure prediction algo
 
 To use this repository, clone the repo to your own machine.
 
-To run the performance tets of the algorithm use the following command:
+To run the performance test of the algorithm use the following command:
 
-``` python performance_test.py ```
+```bash
+python performance_test.py 
+```
 
 You may also input your own RNA sequence using:
 
-``` python main.py <sequence>```
+```
+python main.py <sequence>
+```
